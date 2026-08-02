@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "My GX Mod",
+  "version": "1.0",
+  "description": "My first Opera GX mod",
+  "theme": {
+    "dark": {
+      "gx_accent": "#ff0000",
+      "gx_secondary_base": "#000000"
+    }
+  }
+}
